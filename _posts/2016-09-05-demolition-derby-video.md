@@ -8,5 +8,7 @@ layout: post
 permalink: >
   http://www.shepherdareahistoricalsociety.org/2016/09/05/demolition-derby-video/
 published: true
+wide_assets:
+  - ""
 ---
 [embed]https://www.youtube.com/watch?v=yU3apyvnDXo[/embed]
