@@ -10,5 +10,9 @@ permalink: >
 published: true
 wide_assets:
   - ""
+largo_byline_text:
+  - Jon Morgan
+top_term:
+  - "1"
 ---
 [embed]https://www.youtube.com/watch?v=yU3apyvnDXo[/embed]
