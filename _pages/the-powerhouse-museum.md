@@ -1,12 +1,12 @@
 ---
-ID: 39
+ID: 95
 post_title: The Powerhouse Museum
-author: Jon Morgan
-post_date: 2016-06-19 20:32:38
+author: ng23055
+post_date: 2016-09-05 17:48:10
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/sample-page/museums/the-powerhouse-museum/
+  http://www.shepherdareahistoricalsociety.org/the-powerhouse-museum/
 published: true
 ---
 <h2><img src="https://web.archive.org/web/20131126081814/http://shepherdahs.org/images/shepherd_powerhouse.png" alt="Shepherd Powerhouse Museum" align="right" hspace="10px" /></h2>

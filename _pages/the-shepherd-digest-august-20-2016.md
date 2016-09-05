@@ -1,8 +1,8 @@
 ---
-ID: 489
+ID: 101
 post_title: 'The Shepherd Digest &#8211; August 20, 2016'
-author: Jon Morgan
-post_date: 2016-08-20 14:14:02
+author: ng23055
+post_date: 2016-09-05 17:48:11
 post_excerpt: ""
 layout: page
 permalink: >

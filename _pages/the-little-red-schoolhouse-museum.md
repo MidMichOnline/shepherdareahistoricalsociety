@@ -1,12 +1,12 @@
 ---
-ID: 498
+ID: 93
 post_title: The Little Red Schoolhouse Museum
-author: Jon Morgan
-post_date: 2016-08-20 15:29:19
+author: ng23055
+post_date: 2016-09-05 17:48:10
 post_excerpt: ""
 layout: page
 permalink: >
-  http://www.shepherdareahistoricalsociety.org/sample-page/museums/the-little-red-schoolhouse-museum/
+  http://www.shepherdareahistoricalsociety.org/the-little-red-schoolhouse-museum/
 published: true
 ---
 <h2><img src="https://web.archive.org/web/20131126081814/http://shepherdahs.org/images/red_schoolhouse.png" alt="Little Red Schoolhouse Museum" align="left" hspace="10px" /></h2>

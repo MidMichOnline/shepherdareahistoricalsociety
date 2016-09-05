@@ -1,8 +1,8 @@
 ---
-ID: 110
+ID: 105
 post_title: The Shepherd Journal
-author: Jon Morgan
-post_date: 2016-08-10 21:14:21
+author: ng23055
+post_date: 2016-09-05 17:48:12
 post_excerpt: ""
 layout: page
 permalink: >
