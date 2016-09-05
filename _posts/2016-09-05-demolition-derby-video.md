@@ -13,7 +13,7 @@ wide_assets:
 largo_byline_text:
   - Jon Morgan
 top_term:
-  - "10"
+  - "44"
 custom_sidebar:
   - none
 largo_custom_related_posts:
