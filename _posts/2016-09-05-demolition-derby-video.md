@@ -13,6 +13,10 @@ wide_assets:
 largo_byline_text:
   - Jon Morgan
 top_term:
-  - "1"
+  - "10"
+custom_sidebar:
+  - none
+largo_custom_related_posts:
+  - Party in the Park
 ---
 [embed]https://www.youtube.com/watch?v=yU3apyvnDXo[/embed]
