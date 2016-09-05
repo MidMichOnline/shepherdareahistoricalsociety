@@ -12,11 +12,15 @@ title:
   - 'a:1:{i:0;s:25:"Take my Newspaper, Please";}'
 source-id:
   - 'a:1:{i:0;s:44:"13mzhZ3GdUMJgQEhm121G8oJXfrGGGYehVUmPGiFiTFE";}'
+wide_assets:
+  - ""
+largo_byline_text:
+  - Jon Morgan
+custom_sidebar:
+  - none
+top_term:
+  - "1"
 ---
-**By Jon Morgan**
-*Shepherd Area Historical Society Vice President*
-
-
 Ross Connelly wants to get out of the newspaper business, so he started a contest to help him select a new owner. Entry required a fee of $175 and an essay. The deadline was in August, but after getting too few submissions he has extended the deadline until September.
 
 The <a href="http://www.nytimes.com/2016/08/26/us/want-to-own-a-newspaper-a-vermont-contest-has-trouble-finding-takers.html">article </a> on the *New York Times *website goes on to describe how the Gazette  has benefitted its community, and how changes in the Journalism industry has hurt it.
